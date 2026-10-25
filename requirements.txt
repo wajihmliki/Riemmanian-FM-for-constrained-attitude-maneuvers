@@ -1,0 +1,7 @@
+numpy>=1.24
+scipy>=1.10
+torch>=2.0
+cvxpy>=1.4        # uses the CLARABEL solver (bundled with cvxpy)
+flow_matching>=1.0
+matplotlib>=3.7
+tqdm>=4.60
